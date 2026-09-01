@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CGT-215-Lab-02/CGT-215-Lab-02.vcxproj" Id="6e23a9f9-3568-40b1-9f48-23daedb307f9" />
+</Solution>
